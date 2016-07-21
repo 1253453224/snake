@@ -19,8 +19,8 @@
     }
     .index{
     	transition:all 0.8s ease;
-    	width:700px;
-    	height:720px;
+    	width:600px;
+    	height:600px;
     	border: 1px solid #000;
     	position: absolute;
     	left: 0;
@@ -30,8 +30,8 @@
     	margin: auto;      
     }
     .index img{
-        width:700px;
-        height:720px;
+        width:600px;
+        height:600px;
     }
     .start{
     	transition:all 0.8s ease;
