@@ -45,7 +45,7 @@ $(function(){
     	
     	
       if(newtou.y>19||newtou.y<0||newtou.x<0||newtou.x>19){
-        alert("失败");
+        alert(“撞晕”");
          zanting();
          return;
       }
